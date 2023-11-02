@@ -5,7 +5,6 @@ let ovlap = document.querySelector('#youare-overlap');
 let micon = document.querySelector('#youare-micon');
 
 // Overlap global. Can probably be done better.
-// https://github.com/Endermanch/youareanidiot.cc 🤫
 let overlap = false;
 
 function audioPlay() {
